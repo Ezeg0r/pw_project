@@ -1,0 +1,12 @@
+fast
+slow
+
+tests/gen
+tests/input_*.txt
+
+results.csv
+
+__pycache__/
+*.pyc
+
+.vscode/
