@@ -1,0 +1,15 @@
+# C++ build outputs
+/triangles
+/generator
+/build/
+*.o
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated inputs. Keep three fixtures for quick runs.
+/tests/test-*.txt
+!/tests/test-8.txt
+!/tests/test-2000.txt
+!/tests/test-10000.txt
